@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function home() {
+export default function Home() {
   return (
     <div>
  <div className="container text-center mt-5">
@@ -9,8 +9,8 @@ export default function home() {
             Learn HTML, Bootstrap, JavaScript, and React with easy examples.
         </p>
 
-        <a href="#" class="btn btn-primary me-2">Get Started</a>
-        <a href="#" class="btn btn-outline-primary">Learn More</a>
+        <a href="#" className="btn btn-primary me-2">Get Started</a>
+        <a href="#" className="btn btn-outline-primary">Learn More</a>
     </div>
 
 
